@@ -1,6 +1,6 @@
 [//]: # (Image References)
 [train]: ./images/Training-Performance.png
-[test]: ./images/Test%20Performance.png
+[test]: ./images/Test-Performance.png
 [Lowe_Wu]: ./images/Lowe_Wu.png
 # Solution Report P3 Collaboration and Competition
 
