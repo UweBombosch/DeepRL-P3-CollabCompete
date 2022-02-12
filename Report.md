@@ -116,8 +116,8 @@ episodes**. Here is a typical result:
 
 ![Test Scores][test]
 
-The average of scores over 100 episodes in this case is 36.7. We executed this test several times, receiving similar 
-results with a variance of +/- 2.
+The average of scores over 100 episodes in this case is 3.62. We executed this test several times, receiving similar 
+results with a variance of about +/- 0.8.
 
 ## Criticism 
 Training and test performance show a high variance. There are episodes, where the agents collaborate in an almost
